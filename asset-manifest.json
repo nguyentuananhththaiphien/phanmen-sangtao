@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/demo-quiz/static/css/main.a2cb68c7.css",
-    "main.js": "/demo-quiz/static/js/main.2726346f.js",
-    "static/js/845.7c984e8f.chunk.js": "/demo-quiz/static/js/845.7c984e8f.chunk.js",
-    "static/js/787.3591d129.chunk.js": "/demo-quiz/static/js/787.3591d129.chunk.js",
-    "static/media/giphy.gif": "/demo-quiz/static/media/giphy.d10669918a95b413ceb3.gif",
-    "static/media/main.mp3": "/demo-quiz/static/media/main.707d9e4a37c306ebb27a.mp3",
-    "static/media/bg.jpeg": "/demo-quiz/static/media/bg.c137ccd722d64133b4df.jpeg",
-    "static/media/sounds_play.mp3": "/demo-quiz/static/media/sounds_play.8e5f6d1d81d4e1414b95.mp3",
-    "static/media/sounds_correct.mp3": "/demo-quiz/static/media/sounds_correct.160572d72c858155072e.mp3",
-    "static/media/sounds_wrong.mp3": "/demo-quiz/static/media/sounds_wrong.e946821894ae9b0a0d6f.mp3",
-    "static/media/logo.svg": "/demo-quiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/demo-quiz/index.html",
-    "main.a2cb68c7.css.map": "/demo-quiz/static/css/main.a2cb68c7.css.map",
-    "main.2726346f.js.map": "/demo-quiz/static/js/main.2726346f.js.map",
-    "845.7c984e8f.chunk.js.map": "/demo-quiz/static/js/845.7c984e8f.chunk.js.map",
-    "787.3591d129.chunk.js.map": "/demo-quiz/static/js/787.3591d129.chunk.js.map"
+    "main.css": "/phanmen-sangtao/static/css/main.6c88941f.css",
+    "main.js": "/phanmen-sangtao/static/js/main.14fb698c.js",
+    "static/js/845.91635dc5.chunk.js": "/phanmen-sangtao/static/js/845.91635dc5.chunk.js",
+    "static/js/787.410c98dd.chunk.js": "/phanmen-sangtao/static/js/787.410c98dd.chunk.js",
+    "static/media/giphy.gif": "/phanmen-sangtao/static/media/giphy.d10669918a95b413ceb3.gif",
+    "static/media/main.mp3": "/phanmen-sangtao/static/media/main.707d9e4a37c306ebb27a.mp3",
+    "static/media/bg.jpeg": "/phanmen-sangtao/static/media/bg.c137ccd722d64133b4df.jpeg",
+    "static/media/sounds_play.mp3": "/phanmen-sangtao/static/media/sounds_play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/sounds_correct.mp3": "/phanmen-sangtao/static/media/sounds_correct.160572d72c858155072e.mp3",
+    "static/media/sounds_wrong.mp3": "/phanmen-sangtao/static/media/sounds_wrong.e946821894ae9b0a0d6f.mp3",
+    "static/media/logo.svg": "/phanmen-sangtao/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/phanmen-sangtao/index.html",
+    "main.6c88941f.css.map": "/phanmen-sangtao/static/css/main.6c88941f.css.map",
+    "main.14fb698c.js.map": "/phanmen-sangtao/static/js/main.14fb698c.js.map",
+    "845.91635dc5.chunk.js.map": "/phanmen-sangtao/static/js/845.91635dc5.chunk.js.map",
+    "787.410c98dd.chunk.js.map": "/phanmen-sangtao/static/js/787.410c98dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2cb68c7.css",
-    "static/js/main.2726346f.js"
+    "static/css/main.6c88941f.css",
+    "static/js/main.14fb698c.js"
   ]
 }
